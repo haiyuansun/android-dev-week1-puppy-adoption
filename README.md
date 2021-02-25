@@ -1,4 +1,4 @@
-# PuppyADoption
+# PuppyFinder
 
 ![Workflow result](https://github.com/haiyuansun/android-dev-week1-puppy-adoption/workflows/Check/badge.svg)
 
